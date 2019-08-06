@@ -1,0 +1,14 @@
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\bin\Debug\netcoreapp2.2\SwaggerAddWebApi.deps.json
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\bin\Debug\netcoreapp2.2\SwaggerAddWebApi.runtimeconfig.json
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\bin\Debug\netcoreapp2.2\SwaggerAddWebApi.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\bin\Debug\netcoreapp2.2\SwaggerAddWebApi.dll
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.RazorAssemblyInfo.cache
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.RazorAssemblyInfo.cs
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.AssemblyInfo.cs
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\bin\Debug\netcoreapp2.2\SwaggerAddWebApi.pdb
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.dll
+C:\Users\Александр\source\repos\SwaggerAddWebApi\SwaggerAddWebApi\obj\Debug\netcoreapp2.2\SwaggerAddWebApi.pdb
