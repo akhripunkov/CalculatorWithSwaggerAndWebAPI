@@ -17,6 +17,12 @@ namespace SwaggerAddWebApi.Controllers
             return new string[] { "value1", "value2" };
         }
 
+        [HttpGet("calc")]
+        public string Get(string str)
+        {
+            return new evalexpr().eval_expr(str).ToString();
+        }
+
         // GET api/values/5
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
