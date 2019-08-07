@@ -3,7 +3,7 @@ using WebAPICalc4.Utilities;
 
 namespace Tests
 {
-    public class Tests
+    public class CalculatorTests
     {
         [SetUp]
         public void Setup()
@@ -21,6 +21,18 @@ namespace Tests
 
             //Assert
             Assert.AreEqual(result, 9);
+        }
+
+        [Test]
+        public void Add_IntMaxPlus1()
+        {
+            long    lres = (long)int.MaxValue + 1;
+            long     ires;
+            var _calc = new Calculator();
+
+            ires = _calc.Add(int.MaxValue, 1);
+
+            Assert.AreEqual(ires, lres);
         }
     }
 }

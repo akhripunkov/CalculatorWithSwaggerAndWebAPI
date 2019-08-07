@@ -7,9 +7,9 @@ namespace WebAPICalc4.Models
 {
     public class CalculatorResult
     {
-        public int Sum;
-        public int Sub;
-        public int Mul;
-        public int Div;
+        public long Sum;
+        public long Sub;
+        public long Mul;
+        public long Div;
     }
 }

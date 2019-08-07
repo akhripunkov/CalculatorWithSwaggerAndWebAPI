@@ -2,10 +2,10 @@
 {
     public interface ICalculator
     {
-        int Add(int a, int b);
-        int Div(int a, int b);
-        int Mult(int a, int b);
-        int Sub(int a, int b);
-        int Eval(string str);
+        long Add(int a, int b);
+        long Div(int a, int b);
+        long Mult(int a, int b);
+        long Sub(int a, int b);
+        long Eval(string str);
     }
 }
