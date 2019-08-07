@@ -12,3 +12,17 @@ C:\Users\Александр\source\repos\WebAPICalc4\WebAPICalc4\obj\Debug\netco
 C:\Users\Александр\source\repos\WebAPICalc4\WebAPICalc4\bin\Debug\netcoreapp2.2\WebAPICalc4.pdb
 C:\Users\Александр\source\repos\WebAPICalc4\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.dll
 C:\Users\Александр\source\repos\WebAPICalc4\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.pdb
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\bin\Debug\netcoreapp2.2\WebAPICalc4.deps.json
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\bin\Debug\netcoreapp2.2\WebAPICalc4.runtimeconfig.json
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\bin\Debug\netcoreapp2.2\WebAPICalc4.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\bin\Debug\netcoreapp2.2\WebAPICalc4.dll
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\bin\Debug\netcoreapp2.2\WebAPICalc4.pdb
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.RazorAssemblyInfo.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.RazorAssemblyInfo.cs
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.AssemblyInfo.cs
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.RazorTargetAssemblyInfo.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.dll
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4\obj\Debug\netcoreapp2.2\WebAPICalc4.pdb

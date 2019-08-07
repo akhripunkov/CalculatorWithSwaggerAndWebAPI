@@ -1,0 +1,17 @@
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.deps.json
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.runtimeconfig.json
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.dll
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.pdb
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\WebAPICalc4.dll
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\bin\Debug\netcoreapp2.2\WebAPICalc4.pdb
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\obj\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\obj\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\obj\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\obj\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.AssemblyInfo.cs
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\obj\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.csproj.CopyComplete
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\obj\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.dll
+C:\Users\Александр\source\repos\CalculatorWithSwaggerAndWebAPI\WebAPICalc4.NUnitTests\obj\Debug\netcoreapp2.2\WebAPICalc4.NUnitTests.pdb

@@ -12249,11 +12249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Александр\\source\\repos\\WebAPICalc4\\WebAPICalc4\\WebAPICalc4.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\source\\repos\\CalculatorWithSwaggerAndWebAPI\\WebAPICalc4\\WebAPICalc4.csproj",
       "projectName": "WebAPICalc4",
-      "projectPath": "C:\\Users\\Александр\\source\\repos\\WebAPICalc4\\WebAPICalc4\\WebAPICalc4.csproj",
+      "projectPath": "C:\\Users\\Александр\\source\\repos\\CalculatorWithSwaggerAndWebAPI\\WebAPICalc4\\WebAPICalc4.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Александр\\source\\repos\\WebAPICalc4\\WebAPICalc4\\obj\\",
+      "outputPath": "C:\\Users\\Александр\\source\\repos\\CalculatorWithSwaggerAndWebAPI\\WebAPICalc4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
