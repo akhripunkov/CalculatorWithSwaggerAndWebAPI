@@ -83,16 +83,20 @@ namespace Tests
         }
 
         [Test]
-        public void evalexpr()
+        [TestCase("(4 + 5 + 33 + 87 + 995 * 66 - 333 / 3) / 3", 21896)]
+        [TestCase("(2+       2 +     4 -2) / 3", 2)]
+        [TestCase("81/9/9", 1)]
+        [TestCase("42", 42)]
+        public void evalexpr(string eval, int testRes)
         {
             //Arrange
             var _calculator = new Calculator();
 
             //Act
-            var result = _calculator.Eval("(4+5 +33 +87 +995 *66 -333   /3 ) /3");
+            var result = _calculator.Eval(eval);
 
             //Assert
-            Assert.AreEqual(result, 21896);
+            Assert.AreEqual(result, testRes);
         }
     }
 }
