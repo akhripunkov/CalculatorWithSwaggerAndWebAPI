@@ -11,16 +11,24 @@ namespace Tests
         }
 
         [Test]
-        public void Add_5plus4_9()
+        [TestCase(5,4,9)]
+        [TestCase(5, 4, 9)]
+        [TestCase(5, 60, 65)]
+        [TestCase(1, 22, 23)]
+        [TestCase(5000, 4333, 9333)]
+        [TestCase(-274742, -200000, -474742)]
+        [TestCase(1, 2, 3)]
+        [TestCase(-1, -2, -3)]
+        public void Add_plus_AreEqual(int a, int b, int c)
         {
             //Arrange
             var _calculator = new Calculator();
 
             //Act
-            var result = _calculator.Add(5, 4);
+            var result = _calculator.Add(a, b);
 
             //Assert
-            Assert.AreEqual(result, 9);
+            Assert.AreEqual(result, c);
         }
 
         [Test]
